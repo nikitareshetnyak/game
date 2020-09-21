@@ -1,0 +1,2 @@
+[2020-6-3 17:05:41] layer "+91 12534 67890": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2020-6-3 17:05:41] layer "firkho@firkho.com": Unsupported extension: com
